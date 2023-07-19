@@ -1,0 +1,30 @@
+.img-thumbnail{
+    height: 4%;
+    margin-left: 20px;
+    
+}
+.carousel-inner{
+    height: 100% !important;
+}
+
+.item,img{
+   margin-top: 15px;
+   height: 10% !important;
+   width:  30% !important;
+   
+}
+.card-img-top{
+    margin-top: 0px;
+    height: 50% !important;
+    width:  100% !important;
+   
+}
+.card-img-top:hover{
+    cursor:pointer;
+    transform:scale(1.01);
+}
+.card:hover{
+    background-color: white;
+    cursor:pointer;
+    transform:scale(1.01);
+}
